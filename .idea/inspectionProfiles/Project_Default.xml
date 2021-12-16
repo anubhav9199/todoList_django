@@ -1,0 +1,145 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ProblematicWhitespace" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyDictCreationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyMethodMayBeStaticInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="95">
+            <item index="0" class="java.lang.String" itemvalue="greenlet" />
+            <item index="1" class="java.lang.String" itemvalue="html5lib" />
+            <item index="2" class="java.lang.String" itemvalue="colorlog" />
+            <item index="3" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="4" class="java.lang.String" itemvalue="subprocess32-ext" />
+            <item index="5" class="java.lang.String" itemvalue="Click" />
+            <item index="6" class="java.lang.String" itemvalue="astroid" />
+            <item index="7" class="java.lang.String" itemvalue="pyzmq" />
+            <item index="8" class="java.lang.String" itemvalue="virtualenvwrapper" />
+            <item index="9" class="java.lang.String" itemvalue="imutils" />
+            <item index="10" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="11" class="java.lang.String" itemvalue="google-api-core" />
+            <item index="12" class="java.lang.String" itemvalue="WeasyPrint" />
+            <item index="13" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="14" class="java.lang.String" itemvalue="pybloomfilter" />
+            <item index="15" class="java.lang.String" itemvalue="python-engineio" />
+            <item index="16" class="java.lang.String" itemvalue="wrapt" />
+            <item index="17" class="java.lang.String" itemvalue="cryptography" />
+            <item index="18" class="java.lang.String" itemvalue="Pyphen" />
+            <item index="19" class="java.lang.String" itemvalue="webpreview" />
+            <item index="20" class="java.lang.String" itemvalue="python-socketio" />
+            <item index="21" class="java.lang.String" itemvalue="pyClamd" />
+            <item index="22" class="java.lang.String" itemvalue="boto3" />
+            <item index="23" class="java.lang.String" itemvalue="localstack" />
+            <item index="24" class="java.lang.String" itemvalue="modulefinder" />
+            <item index="25" class="java.lang.String" itemvalue="PySocks" />
+            <item index="26" class="java.lang.String" itemvalue="configparser" />
+            <item index="27" class="java.lang.String" itemvalue="pyasp" />
+            <item index="28" class="java.lang.String" itemvalue="pylint-exit" />
+            <item index="29" class="java.lang.String" itemvalue="virtualenv" />
+            <item index="30" class="java.lang.String" itemvalue="Flask-SocketIO" />
+            <item index="31" class="java.lang.String" itemvalue="CacheControl" />
+            <item index="32" class="java.lang.String" itemvalue="twilio" />
+            <item index="33" class="java.lang.String" itemvalue="google-cloud-core" />
+            <item index="34" class="java.lang.String" itemvalue="idna" />
+            <item index="35" class="java.lang.String" itemvalue="oauth2client" />
+            <item index="36" class="java.lang.String" itemvalue="pbr" />
+            <item index="37" class="java.lang.String" itemvalue="PyJWT" />
+            <item index="38" class="java.lang.String" itemvalue="rsa" />
+            <item index="39" class="java.lang.String" itemvalue="sqlalchemy-json" />
+            <item index="40" class="java.lang.String" itemvalue="firebase-admin" />
+            <item index="41" class="java.lang.String" itemvalue="pyaes" />
+            <item index="42" class="java.lang.String" itemvalue="cheroot" />
+            <item index="43" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="44" class="java.lang.String" itemvalue="cffi" />
+            <item index="45" class="java.lang.String" itemvalue="httplib2" />
+            <item index="46" class="java.lang.String" itemvalue="pep8" />
+            <item index="47" class="java.lang.String" itemvalue="google-cloud-storage" />
+            <item index="48" class="java.lang.String" itemvalue="numpy" />
+            <item index="49" class="java.lang.String" itemvalue="pyPdf" />
+            <item index="50" class="java.lang.String" itemvalue="bitarray" />
+            <item index="51" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="52" class="java.lang.String" itemvalue="Flask-Login" />
+            <item index="53" class="java.lang.String" itemvalue="google-resumable-media" />
+            <item index="54" class="java.lang.String" itemvalue="virtualenv-clone" />
+            <item index="55" class="java.lang.String" itemvalue="pyOpenSSL" />
+            <item index="56" class="java.lang.String" itemvalue="google-auth-httplib2" />
+            <item index="57" class="java.lang.String" itemvalue="pyzmq-static" />
+            <item index="58" class="java.lang.String" itemvalue="SQLAlchemy-Utils" />
+            <item index="59" class="java.lang.String" itemvalue="urllib3" />
+            <item index="60" class="java.lang.String" itemvalue="Flask" />
+            <item index="61" class="java.lang.String" itemvalue="Flask-Session" />
+            <item index="62" class="java.lang.String" itemvalue="cssselect2" />
+            <item index="63" class="java.lang.String" itemvalue="pyotp" />
+            <item index="64" class="java.lang.String" itemvalue="uritemplate" />
+            <item index="65" class="java.lang.String" itemvalue="scipy" />
+            <item index="66" class="java.lang.String" itemvalue="botocore" />
+            <item index="67" class="java.lang.String" itemvalue="stevedore" />
+            <item index="68" class="java.lang.String" itemvalue="xdot" />
+            <item index="69" class="java.lang.String" itemvalue="MySQL-python" />
+            <item index="70" class="java.lang.String" itemvalue="pdfkit" />
+            <item index="71" class="java.lang.String" itemvalue="localstack-client" />
+            <item index="72" class="java.lang.String" itemvalue="jmespath" />
+            <item index="73" class="java.lang.String" itemvalue="lazy-object-proxy" />
+            <item index="74" class="java.lang.String" itemvalue="localstack-ext" />
+            <item index="75" class="java.lang.String" itemvalue="s3transfer" />
+            <item index="76" class="java.lang.String" itemvalue="pylint" />
+            <item index="77" class="java.lang.String" itemvalue="google-api-python-client" />
+            <item index="78" class="java.lang.String" itemvalue="grpcio" />
+            <item index="79" class="java.lang.String" itemvalue="isort" />
+            <item index="80" class="java.lang.String" itemvalue="ply" />
+            <item index="81" class="java.lang.String" itemvalue="google-cloud-firestore" />
+            <item index="82" class="java.lang.String" itemvalue="google-auth" />
+            <item index="83" class="java.lang.String" itemvalue="Pillow" />
+            <item index="84" class="java.lang.String" itemvalue="ujson" />
+            <item index="85" class="java.lang.String" itemvalue="pynsq" />
+            <item index="86" class="java.lang.String" itemvalue="eventlet" />
+            <item index="87" class="java.lang.String" itemvalue="pymongo" />
+            <item index="88" class="java.lang.String" itemvalue="passgen" />
+            <item index="89" class="java.lang.String" itemvalue="flask-login" />
+            <item index="90" class="java.lang.String" itemvalue="certifi" />
+            <item index="91" class="java.lang.String" itemvalue="passwordmeter" />
+            <item index="92" class="java.lang.String" itemvalue="requests" />
+            <item index="93" class="java.lang.String" itemvalue="pycrypto" />
+            <item index="94" class="java.lang.String" itemvalue="psutil" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+          <option value="E722" />
+          <option value="E303" />
+          <option value="E265" />
+          <option value="E127" />
+          <option value="E125" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyProtectedMemberInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnboundLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="MCLog" />
+          <option value="interfaces" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="RestRoleInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredRoles">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
